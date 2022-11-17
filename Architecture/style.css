@@ -1,0 +1,23 @@
+
+body {
+    margin: 50px;
+}
+
+/* Topnav */
+.topnav {
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.topnav a {
+    text-decoration: none;
+    color: #808080;
+}
+
+.topnav a:hover {
+    color: black;
+}
+
+.topnav a.page-collection {
+    margin-left: 20px;
+}
