@@ -1,1 +1,0 @@
-# Site demo para arquitetura
